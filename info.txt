@@ -1,4 +1,4 @@
-pr trigger 1
+pr trigger 2
 
 push trigger 4
 
