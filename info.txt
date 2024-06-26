@@ -1,6 +1,6 @@
 pr trigger 3
 
-push trigger 6
+push trigger 7
 
 bla bla
 
